@@ -43,4 +43,4 @@ The repository is organized as follows:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/sql-test-questions.git
+   git clone [https://github.com/yourusername/sql-test-questions.git](https://github.com/khangsheng1/SQL_Training.git)
