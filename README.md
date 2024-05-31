@@ -20,37 +20,34 @@ The repository is organized as follows:
 
 ├── README.md
 
-├── questions
+├── question_1
 
 │ ├── question1.txt
 
-│ ├── question2.txt
-
-│ ├── ...
-
-
-├── solutions
-
 │ ├── question1_solution.txt
+
+| ├── question1_output.txt
+
+
+├── question_2
+
+│ ├── question2.txt
 
 │ ├── question2_solution.txt
 
-│ ├── ...
+| ├── question2_output.txt
 
 
-└── explanations
+├── question_3
 
-├── question1_output.txt
+│ ├── question3.txt
 
-├── question2_output.txt
+│ ├── question3_solution.txt
 
-├── ...
+| ├── question3_output.txt
 
 
-
-- `questions/`: Contains the SQL questions.
-- `solutions/`: Contains the SQL solutions.
-- `output/`: Contains the output for each solution.
+| ├── ...
 
 ## How to Use
 
