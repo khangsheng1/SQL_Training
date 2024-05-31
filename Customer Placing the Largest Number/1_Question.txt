@@ -1,5 +1,6 @@
 Customer Placing the Largest Number of Orders
 
+Easy
 
 Table: Orders
 +-----------------+----------+
