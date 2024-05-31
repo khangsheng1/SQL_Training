@@ -29,6 +29,7 @@ The repository is organized as follows:
 | ├── question1_output.txt
 
 
+
 ├── question_2
 
 │ ├── question2.txt
@@ -36,6 +37,7 @@ The repository is organized as follows:
 │ ├── question2_solution.txt
 
 | ├── question2_output.txt
+
 
 
 ├── question_3
