@@ -2,6 +2,7 @@ Find Customer Referee
 
 Easy
 
+Table: Customer
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
