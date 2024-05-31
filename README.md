@@ -49,7 +49,7 @@ The repository is organized as follows:
 | ├── question3_output.txt
 
 
-| ├── ...
+├── ...
 
 ## How to Use
 
