@@ -7,9 +7,7 @@ Welcome to the SQL Test Questions repository! This repository contains a collect
 - [Introduction](#introduction)
 - [Repository Structure](#repository-structure)
 - [How to Use](#how-to-use)
-- [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -43,4 +41,16 @@ The repository is organized as follows:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/sql-test-questions.git](https://github.com/khangsheng1/SQL_Training.git)
+   git clone https://github.com/khangsheng1/SQL_Training.git
+
+2. **Navigate to the repository:**
+   cd SQL_Training
+
+3. **Browse the questions:**
+   You can open the questions directory to find the SQL questions you want to work on.
+
+4. **Check your solutions:**
+   After solving a question, you can compare your solution with the one in the solutions directory.
+
+## Acknowledgements
+Special thanks to [LeetCode](https://leetcode.com/) for providing the [Top SQL 50 Study Plan](https://leetcode.com/studyplan/top-sql-50/) which inspired the creation of this repository.
