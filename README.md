@@ -22,31 +22,31 @@ The repository is organized as follows:
 
 ├── question_1
 
-│ ├── question1.txt
+│ ├── question1
 
-│ ├── question1_solution.txt
+│ ├── question1_solution
 
-| ├── question1_output.txt
+| ├── question1_output
 
 
 
 ├── question_2
 
-│ ├── question2.txt
+│ ├── question2
 
-│ ├── question2_solution.txt
+│ ├── question2_solution
 
-| ├── question2_output.txt
+| ├── question2_output
 
 
 
 ├── question_3
 
-│ ├── question3.txt
+│ ├── question3
 
-│ ├── question3_solution.txt
+│ ├── question3_solution
 
-| ├── question3_output.txt
+| ├── question3_output
 
 
 ├── ...
